@@ -1,7 +1,7 @@
 import React from "react";
 
 import zenclass from "../Assets/Images/zenportal.png";
-
+import todo from "../Assets/Images/todo.png";
 
 const Projects = () => {
   const projects = [
@@ -16,11 +16,11 @@ const Projects = () => {
     },
     {
       id: 2,
-      src: zenclass,
-      demo: "https://magnificent-hamster-6db4e1.netlify.app/",
-      front: "https://github.com/Sanjayvinoth7/zen-class-project-frontend",
-      back: "https://github.com/Sanjayvinoth7/zen-class-project-backend",
-      about: "Zen Class Portal",
+      src: todo,
+      demo: "https://clever-croquembouche-c9b3ef.netlify.app/",
+      front: "https://github.com/Sanjayvinoth7/to-do-app-frontend",
+      back: "https://github.com/Sanjayvinoth7/to-do-app-backend",
+      about: "To Do App",
       
     },
    
