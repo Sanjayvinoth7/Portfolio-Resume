@@ -71,7 +71,7 @@ const Home = () => {
                 className="flex items-center  py-2 my-2 "
                 target="_blank"
                 rel="noreferrer"
-                href="mailto:sanjayvinoth@gmail.com"
+                href="mailto:sanjayvinoth7@gmail.com"
               >
                 <HiOutlineMail size={30} />
                 <span className="ml-3">Email</span>
