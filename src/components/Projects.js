@@ -2,6 +2,7 @@ import React from "react";
 
 import zenclass from "../Assets/Images/zenportal.png";
 import todo from "../Assets/Images/todo.png";
+import twitterclone from "../Assets/Images/twitterclone.png";
 
 const Projects = () => {
   const projects = [
@@ -21,6 +22,15 @@ const Projects = () => {
       front: "https://github.com/Sanjayvinoth7/to-do-app-frontend",
       back: "https://github.com/Sanjayvinoth7/to-do-app-backend",
       about: "To Do App",
+      
+    },
+    {
+      id: 3,
+      src: twitterclone,
+      demo: "https://jovial-travesseiro-e37479.netlify.app/",
+      front: "https://github.com/Sanjayvinoth7/twitter-clone-frontend",
+      back: "https://github.com/Sanjayvinoth7/twitter-clone-backend",
+      about: "Twiter Clone",
       
     },
    

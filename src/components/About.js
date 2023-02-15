@@ -25,6 +25,7 @@ const About = () => {
           Full Stack Developer with quite few own projects looking for an
           opportunity to work and expose my skills in an organization and
           interested to explore and work on a different types of projects.
+          I am available for any kind of job opportunity that suits my interests.
         </p>
       </div>
     </div>
