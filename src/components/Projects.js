@@ -3,6 +3,8 @@ import React from "react";
 import zenclass from "../Assets/Images/zenportal.png";
 import todo from "../Assets/Images/todo.png";
 import twitterclone from "../Assets/Images/twitterclone.png";
+import smartshop from "../Assets/Images/smartshop.png";
+
 
 const Projects = () => {
   const projects = [
@@ -33,7 +35,15 @@ const Projects = () => {
       about: "Twiter Clone",
       
     },
-   
+    {
+      id: 4,
+      src: smartshop,
+      demo: "https://cheerful-sprite-37c4e3.netlify.app/",
+      front: "https://github.com/Sanjayvinoth7/shopping_app_frontend",
+      back: "https://github.com/Sanjayvinoth7/shopping_app_backend",
+      about: "Ecommerce",
+      
+    },
     
   ];
   return (
