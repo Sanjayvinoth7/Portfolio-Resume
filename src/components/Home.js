@@ -42,7 +42,7 @@ const Home = () => {
                 className="flex items-center pr-3 py-2 my-2"
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.linkedin.com/in/vinoth-sanjay-333a3a245/"
+                href="https://www.linkedin.com/in/sanjay-vinoth-b1564b266/"
               >
                 <FaLinkedin size={30} />
                 <span className="ml-3">Linkedin</span>

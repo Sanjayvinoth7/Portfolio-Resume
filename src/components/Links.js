@@ -12,7 +12,7 @@ const Links = () => {
           LinkedIn <AiFillLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/vinoth-sanjay-333a3a245/",
+      href: "https://www.linkedin.com/in/sanjay-vinoth-b1564b266/",
       style: "rounded-tr-md",
     },
     {
