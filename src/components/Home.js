@@ -62,12 +62,12 @@ const Home = () => {
                 className="flex items-center pr-3 py-2 my-2"
                 target="_blank"
                 rel="noreferrer"
-                href="https://drive.google.com/file/d/1f9f4gaJyPgjcgHltXndVxw4tFuseU4A5/view?usp=share_link"
+                href="https://drive.google.com/file/d/1CJAg_SA2B4lD6oC98HLN9EkiahpBOVWn/view?usp=share_link"
               >
                 <BsFillPersonLinesFill size={30} />
                 <span className="ml-3">Resume</span>
               </a>
-              <a
+              <a 
                 className="flex items-center  py-2 my-2 "
                 target="_blank"
                 rel="noreferrer"
