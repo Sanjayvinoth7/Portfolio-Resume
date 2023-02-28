@@ -2,8 +2,8 @@ import React from "react";
 
 import zenclass from "../Assets/Images/zenportal.png";
 import todo from "../Assets/Images/todo.png";
-import twitterclone from "../Assets/Images/twitterclone.png";
-import smartshop from "../Assets/Images/smartshop.png";
+import chatapp from "../Assets/Images/chatapp.png";
+import eshop from "../Assets/Images/eshop.png";
 
 
 const Projects = () => {
@@ -28,20 +28,20 @@ const Projects = () => {
     },
     {
       id: 3,
-      src: twitterclone,
-      demo: "https://jovial-travesseiro-e37479.netlify.app/",
-      front: "https://github.com/Sanjayvinoth7/twitter-clone-frontend",
-      back: "https://github.com/Sanjayvinoth7/twitter-clone-backend",
-      about: "Twiter Clone",
+      src: chatapp,
+      demo: "https://magical-manatee-134ee2.netlify.app/",
+      front: "https://github.com/Sanjayvinoth7/chat-app-frontend",
+      back: "https://github.com/Sanjayvinoth7/chat-app-backend",
+      about: "Chat App",
       
     },
     {
       id: 4,
-      src: smartshop,
-      demo: "https://cheerful-sprite-37c4e3.netlify.app/",
-      front: "https://github.com/Sanjayvinoth7/shopping_app_frontend",
-      back: "https://github.com/Sanjayvinoth7/shopping_app_backend",
-      about: "Ecommerce",
+      src: eshop,
+      demo: "https://exquisite-starburst-59d601.netlify.app/",
+      front: "https://github.com/Sanjayvinoth7/ecommerce-app-frontend",
+      back: "https://github.com/Sanjayvinoth7/ecommerce-app-backend",
+      about: "E-Smart Shop",
       
     },
     
@@ -58,6 +58,14 @@ const Projects = () => {
           </p>
           <p className="py-6">Check out some of my work right here</p>
         </div>
+        <div>
+          Admin: user@gmail.com
+          password : user@123
+        </div>
+        <div>
+          User: user@gmail.com
+          Password : user@123(for chat app "User@123")
+          </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-8 px-12 sm:px-0">
           {projects.map(({ id,src,about, demo, front, back }) => (
             <div

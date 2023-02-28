@@ -62,7 +62,7 @@ const Home = () => {
                 className="flex items-center pr-3 py-2 my-2"
                 target="_blank"
                 rel="noreferrer"
-                href="https://drive.google.com/file/d/1IWSuXv9ZF_7-eft9wkd83QJgvzwLUjmF/view"
+                href="https://drive.google.com/file/d/1f9f4gaJyPgjcgHltXndVxw4tFuseU4A5/view?usp=share_link"
               >
                 <BsFillPersonLinesFill size={30} />
                 <span className="ml-3">Resume</span>
