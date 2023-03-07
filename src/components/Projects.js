@@ -58,9 +58,10 @@ const Projects = () => {
           </p>
           <p className="py-6">Check out some of my work right here</p>
         </div>
+        
         <div>
-          Admin: user@gmail.com
-          password : user@123
+          Admin: admin@gmail.com
+          password : admin@123
         </div>
         <div>
           User: user@gmail.com
