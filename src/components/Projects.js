@@ -60,12 +60,12 @@ const Projects = () => {
         </div>
         
         <div>
-          Admin: admin@gmail.com
-          password : admin@123
+          <b>Admin</b>: admin@gmail.com, 
+          <b>Password</b> : admin@123
         </div>
         <div>
-          User: user@gmail.com
-          Password : user@123(for chat app "User@123")
+          <b>User</b>: user@gmail.com,
+          <b>Password</b> : user@123 <b>(for chat app "User@123")</b>
           </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-8 px-12 sm:px-0">
           {projects.map(({ id,src,about, demo, front, back }) => (
