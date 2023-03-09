@@ -57,9 +57,7 @@ const Projects = () => {
             Projects
           </p>
           <p className="py-6">Check out some of my work right here</p>
-        </div>
-        
-        <div>
+          <div>
          <b>Admin</b>: admin@gmail.com,
           <b>Password</b> : admin@123
         </div>
@@ -67,6 +65,8 @@ const Projects = () => {
           <b>User</b>: demo@gmail.com,
           <b>Password</b> : Demo@123
           </div>
+        </div>
+        
         <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-8 px-12 sm:px-0">
           {projects.map(({ id,src,about, demo, front, back }) => (
             <div
